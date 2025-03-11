@@ -22,8 +22,8 @@ Welcome to my cybersecurity portfolio, where I showcase hands-on projects coveri
   - [Providing a detailed walkthrough on analyzing AWS CloudWatch logs to discover malicious behavior with JQ.](https://github.com/julianhubgit/Detecting-Malicious-behaviour-in-AWS)
 - <b>Linux Command Line</b>
   - [Auditing and editing file permissions for users (employees) in Linux Command Line](https://github.com/julianhubgit/LinuxFilePermissions)
-- <b>Linux Command Line</b>
-  - [Auditing and editing file permissions for users (employees) in Linux Command Line](https://github.com/julianhubgit/LinuxFilePermissions)
+- <b>Malware Analysis</b>
+  - [Analysis Of Malware Within Sandbox](https://github.com/julianhubgit/Analysis-Of-Malware-Within-Sandbox)
 - <b>Cisco Packet Tracer</b>
   - [Building a virtual network in Cisco Packet Tracer](https://github.com/julianhubgit/CiscoPacketTracerNetwork) 
 - <b>NIST CSF Framework</b>
